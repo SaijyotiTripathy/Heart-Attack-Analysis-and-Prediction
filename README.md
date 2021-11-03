@@ -14,4 +14,4 @@ Data Visualization is done by step by step process with critical analysis. With 
 To explain and identify the problem and resolve medical objectives, diﬀerent data science techniques, which interpret the medical goals, have been implemented to diagnose heart disease. A suitable machine learning algorithm called Logistic Regression is preferred for the training and implementation in python for developing and evolving the predictive model. This algorithm executed on the model will help medical experts to predict and diagnose heart attacks in the patient dataset. Exploratory Data Analysis is performed using python libraries such as Matplotlib and Seaborn to gain insights from the data.
 
 # Result:
-The dataset is trained and tested using the algorithm Logistic Regression which gave a good accuracy.
+The dataset is trained and tested using the algorithm Logistic Regression which gave an accuracy of 81.5%.
